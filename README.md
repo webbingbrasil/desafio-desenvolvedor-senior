@@ -10,7 +10,7 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnic
 4. Após finalizar, submeta um pull request e aguarde nossa avaliação;
 
 ## Proposta
-Você deverá desenvolver um aplicativo de streaming de vídeo em React Native. Este aplicativo deverá possuir um CMS desenvolvido em PHP/Laravel para gerenciamento de conteúdo do aplicativo e uma API para fornecer a comunicação necessária para o apliativo. A API também deve ser desenvolvida em PHP, pode ser feita usando o Laravel ou Lumen.
+Você deverá desenvolver um aplicativo de streaming de vídeo em React Native. Este aplicativo deverá possuir um CMS desenvolvido em PHP/Laravel para gerenciamento de conteúdo do aplicativo e uma API para fornecer a comunicação necessária para o aplicativo. A API também deve ser desenvolvida em PHP e pode ser feita usando o Laravel ou Lumen.
 
 Esta plataforma deve atender as seguintes histórias:
 - Eu como usuário do aplicativo desejo criar uma conta;
@@ -43,4 +43,8 @@ O cadastro/perfil do usuário do aplicativo deve conter as seguintes informaçõ
 > - Você DEVE colocar mascara nos campos de CPF e Telefone no aplicativo;
 
 ## Diferenciais
-Serão considerados diferenciais o uso de banco de dados no aplicativo mobile e o desenvolvimento de testes unitários em qualquer uma das aplicações.
+Serão considerados diferenciais:
+- o uso de banco de dados no aplicativo mobile
+- desenvolvimento de testes unitários em qualquer uma das aplicações
+- uso de styled components ou styled system no aplicativo mobile
+- uso de livewire no cms
